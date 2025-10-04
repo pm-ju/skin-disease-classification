@@ -1,4 +1,4 @@
-<img width="923" height="857" alt="image" src="https://github.com/user-attachments/assets/25ace725-94ab-48f4-9462-b942eba1fcd2" /># 🔬 Skin Disease Classification AI
+#  Skin Disease Classification AI
 
 A user-friendly web application powered by a deep learning model to classify skin diseases from images. This project aims to provide an accessible tool for preliminary skin condition analysis.
 
